@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Bangluru Center",
+    "street_address": "33/B Wallnut Street",
+    "city": "Bangluru",
+    "state": "Karnataka",
+    "zip": "540021",
+    "phone": "854-383-5555"
+  },
+  {
+    "id": 2,
+    "name": "Mumbai Center",
+    "street_address": "Hamilton Park, Block A",
+    "city": "Mumbai",
+    "state": "Maharastra",
+    "zip": "452001",
+    "phone": "854-383-5555"
+  },
+  {
+    "id": 3,
+    "name": "Delhi Center",
+    "street_address": "517 A, Block Vally",
+    "city": "Delhi",
+    "state": "Delhi",
+    "zip": "110545",
+    "phone": "011-000-1515"
+  }
+]
